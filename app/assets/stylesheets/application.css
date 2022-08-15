@@ -13,3 +13,14 @@
  *= require_tree .
  *= require_self
  */
+ .qa {
+  border-left: 3px solid rgb(90, 87, 87);
+  text-align: justify;
+  font-style: italic;
+
+
+}
+
+.qa:hover {
+  background-color: lemonchiffon;
+}
